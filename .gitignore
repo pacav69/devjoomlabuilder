@@ -1,1 +1,4 @@
 .komodotools
+*.komodoproject
+# ignored directories
+joomladev
