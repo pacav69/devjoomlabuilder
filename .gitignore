@@ -6,3 +6,17 @@
 # ignored directories
 joomladev
 /build
+
+build/jar/content/devjoomlabuilderextension_overlay.xul
+
+build/jar/content/devjoomlabuilderextension_overlay.xul
+
+build/jar/content/devjoomlabuilderextension_overlay.xul
+
+build/jar/devjoomlabuilder_extension.jar
+
+build/xpi/devjoomlabuilder_extension-0.1-ko.xpi
+
+build/xpi/devjoomlabuilder_extension.jar
+
+build/xpi/install.rdf
