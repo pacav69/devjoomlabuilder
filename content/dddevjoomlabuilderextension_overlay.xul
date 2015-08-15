@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE overlay PUBLIC "-//MOZILLA//DTD XUL V1.0//EN" "http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+<overlay id="devjoomlabuilderextensionOverlay"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+  <commandset id="allcommands">
+    <command id="Tasks:HelloWorld" oncommand="alert('Hello World from devjoomlabuilderextension');"/>
+  </commandset>
+
+  <menupopup id="popup_tools">
+    <menuitem id="menu_devjoomlabuilderextension"
+              label="devjoomlabuilder_extension"
+              observes="Tasks:HelloWorld"
+              class="menu-iconic-wide"/>
+  </menupopup>
+
+<<<<<<< HEAD
+<!-- not yet -->
+=======
+>>>>>>> e9f224d761bfcce2a93a18c1257bc3733c7325ee
+</overlay>

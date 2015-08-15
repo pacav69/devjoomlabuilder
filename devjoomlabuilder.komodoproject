@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="c57c907e-3d78-f642-90d9-e4d4b14f5124" kpf_version="5" name="devjoomlabuilder.komodoproject">
+<preference-set idref="c57c907e-3d78-f642-90d9-e4d4b14f5124" id="project" preftype="project">
+  <boolean id="configured">1</boolean>
+  <string id="koextgen.target">komodo</string>
+  <long id="prefs_version">1</long>
+</preference-set>
+</project>

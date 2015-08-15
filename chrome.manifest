@@ -1,0 +1,12 @@
+
+
+
+
+
+
+content devjoomlabuilderextension jar:devjoomlabuilderextension.jar!/content/
+skin devjoomlabuilderextension classic/1.0 jar:devjoomlabuilderextension.jar!/skin/
+locale devjoomlabuilderextension en-US jar:devjoomlabuilderextension.jar!/locale/en-US/
+
+
+overlay chrome://komodo/content/komodo.xul chrome://devjoomlabuilderextension/content/devjoomlabuilderextension_overlay.xul

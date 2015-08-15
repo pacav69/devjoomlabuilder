@@ -1,0 +1,12 @@
+# #if MODE == "dev"
+content devjoomlabuilderextension content/
+skin devjoomlabuilderextension classic/1.0 skin/
+locale devjoomlabuilderextension en-US locale/en-US/
+
+# #else
+content devjoomlabuilderextension jar:devjoomlabuilderextension.jar!/content/
+skin devjoomlabuilderextension classic/1.0 jar:devjoomlabuilderextension.jar!/skin/
+locale devjoomlabuilderextension en-US jar:devjoomlabuilderextension.jar!/locale/en-US/
+# #endif
+
+overlay chrome://komodo/content/komodo.xul chrome://devjoomlabuilderextension/content/devjoomlabuilderextension_overlay.xul
