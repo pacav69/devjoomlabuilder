@@ -1,4 +1,8 @@
+# ignored files
 .komodotools
 *.komodoproject
+/*.xpi
+
 # ignored directories
 joomladev
+/build
