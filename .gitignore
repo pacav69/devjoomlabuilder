@@ -4,7 +4,7 @@
 /*.xpi
 
 # ignored directories
-joomladev
+# joomladev
 /build
 
 build/jar/content/devjoomlabuilderextension_overlay.xul
@@ -20,3 +20,7 @@ build/xpi/devjoomlabuilder_extension-0.1-ko.xpi
 build/xpi/devjoomlabuilder_extension.jar
 
 build/xpi/install.rdf
+
+*.x_pi
+
+*.xpi
