@@ -11,9 +11,27 @@
                    em:creator="pacav69"
                    em:description="Build Joomla Infrastructure"
                    em:homepageURL="http://yourdomain.org/devjoomlabuilder_extension"
-                   em:iconURL="chrome://devjoomlabuilderextension/skin/extensiondev.png"
+                   em:iconURL="chrome://devjoomlabuilderextension/skin/images/extensiondev.png"
                    em:optionsURL="options.xul"
                    em:aboutURL="about.xul">
     <em:file RDF:resource="urn:mozilla:extension:file:"/>
+	<em:targetApplication>
+            <Description>
+                <!-- Komodo Edit's uuid -->
+                <em:id>{b1042fb5-9e9c-11db-b107-000d935d3368}</em:id>
+                <em:minVersion>6.0</em:minVersion>
+                <em:maxVersion>9.*</em:maxVersion>
+            </Description>
+        </em:targetApplication>
+
+        <em:targetApplication>
+            <Description>
+                <!-- Komodo IDE's uuid -->
+                <em:id>{36E66FA0-F259-11D9-850E-000D935D3368}</em:id>
+                <em:minVersion>6.0</em:minVersion>
+                <em:maxVersion>9.*</em:maxVersion>
+            </Description>
+        </em:targetApplication>
+
   </RDF:Description>
 </RDF:RDF>

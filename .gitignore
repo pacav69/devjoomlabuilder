@@ -6,7 +6,7 @@
 # ignored directories
 # joomladev
 build*
-
+/build*
 
 
 *.x_pi
@@ -16,3 +16,17 @@ build*
 *.xpi
 
 
+
+build/jar/content/devjoomlabuilderextension_overlay.xul
+
+build/jar/content/devjoomlabuilderextension_overlay.xul
+
+build/jar/devjoomlabuilder_extension.jar
+
+build/xpi/chrome.manifest
+
+build/xpi/chrome.p.manifest
+
+build/xpi/devjoomlabuilder_extension-0.1-ko.xpi
+
+build/xpi/devjoomlabuilder_extension.jar
