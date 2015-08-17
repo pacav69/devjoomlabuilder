@@ -30,3 +30,19 @@ build/xpi/chrome.p.manifest
 build/xpi/devjoomlabuilder_extension-0.1-ko.xpi
 
 build/xpi/devjoomlabuilder_extension.jar
+
+build/jar/content/devjoomlabuilderextension_overlay.xul
+
+build/xpi/install.rdf
+
+build/xpi/devjoomlabuilder_extension.jar
+
+build/xpi/devjoomlabuilder_extension-0.1-ko.xpi
+
+build/xpi/chrome.p.manifest
+
+build/xpi/chrome.manifest
+
+build/jar/devjoomlabuilder_extension.jar
+
+build/jar/content/devjoomlabuilderextension_overlay.xul
